@@ -4,9 +4,9 @@ A Web API built with C# that accepts JSON-formatted opening hours of a restauran
 ![](ApiDemo.gif)
 
 ## Content
-* [Features](https://github.com/ebendcelebrant/Opening_Hours/tree/master#features)
-* [How To Run](https://github.com/ebendcelebrant/Opening_Hours/tree/master#how-to-run)
-* [Thoughts On The Data Format](https://github.com/ebendcelebrant/Opening_Hours/tree/master#thoughts-on-the-data-format)
+* [Features](https://github.com/ebendcelebrant/DotNetCore_OpeningHoursQuestion/tree/master#features)
+* [How To Run](https://github.com/ebendcelebrant/DotNetCore_OpeningHoursQuestions/tree/master#how-to-run)
+* [Thoughts On The Data Format](https://github.com/ebendcelebrant/DotNetCore_OpeningHoursQuestion/tree/master#thoughts-on-the-data-format)
 
 ## Features
 The project was developed using Web API 2.0 on Asp.Net with C# as the language. It has two main endpoints:<br />
@@ -23,8 +23,8 @@ implemented to provide some basic level of description of the endpoints
 Visual Studio was used in this project and the solution file is in VS format. <br />
 #### Steps
 <ol>
-<li>Clone the repository and go to the root folder <i>Opening_Hours-Master</i></li>
-<li>Double Click on the solution file called OpeningHoursInterviewQuestion.sln</li>
+<li>Clone the repository and go to the root folder <i>DotNetCore_OpeningHoursQuestion-Master</i></li>
+<li>Double Click on the solution file called DotNetCore_OpeningHoursQuestion.sln</li>
 <li>The VS project should be open on your computer. You can then click the run button to access the web app</li>
 <li>Click on <b>blue</b> <i>Learn More</i> button to open up swagger api documentation to view the endpoints in a user friendly version</li>
 <li>Test and Enjoy!!</li>
