@@ -23,7 +23,7 @@ implemented to provide some basic level of description of the endpoints
 Visual Studio was used in this project and the solution file is in VS format. <br />
 #### Steps
 <ol>
-<li>Clone the repository and go to the root folder <i>DotNetCore_OpeningHoursQuestion-Master</i></li>
+<li>Clone the repository and go to the root folder <i>DotNetCore_OpeningHoursQuestion</i></li>
 <li>Double Click on the solution file called DotNetCore_OpeningHoursQuestion.sln</li>
 <li>The VS project should be open on your computer. You can then click the run button to access the web app</li>
 <li>Click on <b>blue</b> <i>Learn More</i> button to open up swagger api documentation to view the endpoints in a user friendly version</li>
